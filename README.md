@@ -1,5 +1,6 @@
 # DIGIBHEM
-TASK-2
+
+INTERNSHIP TASK-2
 
 Exploratory Data Analysis (EDA): Analyze the Indian Premier League dataset using Python .
 
